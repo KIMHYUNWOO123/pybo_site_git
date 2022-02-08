@@ -1,0 +1,31 @@
+/* textarea {
+  width: 100%;
+}
+
+
+input[type="submit"] {
+  margin-top: 10px;
+} */
+
+.jumbotron {
+  background-image: url("images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.login-form, .sign-up-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.avata-sm {
+  width: 20px;
+}
+
+.comment {
+  border-top:dotted 1px #ddd;
+  font-size:0.7em;
+}
+
